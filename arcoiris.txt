@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 rojo
 cafe
 rosa
+=======
+negro
+cafe 
+rojo
+naranja
+>>>>>>> bb0c640f32e0a8c806a181f8cc79fe5808cb1bf3
 
