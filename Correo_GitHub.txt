@@ -1,6 +1,6 @@
 Matricula  Correo_gitHub
 
-UP180141 
+UP180141   up1801414@alumnos.upa.edu.mx
 UP180450
 UP180574   up180574@alumnos.upa.edu.mx
 UP180316
