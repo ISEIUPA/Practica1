@@ -1,17 +1,5 @@
-negro
-<<<<<<< HEAD
-cafe
-rojo
-naranja
-=======
-<<<<<<< HEAD
-cafe
-rojo
-naranja
-=======
-cafe 
-rojo
-naranja
+1 negro
+2 cafe
+3 rojo
+4 naranja
 
->>>>>>> bb0c640f32e0a8c806a181f8cc79fe5808cb1bf3
->>>>>>> 9545d9c4cdf3f14dc2538eb5ac51e85c855225d5
