@@ -1,4 +1,0 @@
-0 negro
-1 cafe 
-2 rojo
-3 naranja
