@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Angelica
 Brenda Lorena Carrillo Velázquez
+=======
+Fernanda Angelica Macias Mora
+Brenda Lorena Carrillo Velázquez
+>>>>>>> 4b99cfd5b9a443a2664b622d14f96d7817145362
