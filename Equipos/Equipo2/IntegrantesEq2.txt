@@ -2,3 +2,4 @@ Jefe: Alejandro Palomo
 1: Gabriel de Jesus Montoya 
 2: Cruz Roque Gerardo Aristeo
 3: Monroy García Saúl Alfredo
+4: Gómez Vizcarra Melissa
