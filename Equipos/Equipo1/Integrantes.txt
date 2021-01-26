@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Angelica
 Brenda Lorena Carrillo Velázquez
 
 Karen Judith Villarrial Olmos
+=======
+Fernanda Angelica Macias Mora
+>>>>>>> 0322cc39038db861b219420474e1da7c8e6dba45
