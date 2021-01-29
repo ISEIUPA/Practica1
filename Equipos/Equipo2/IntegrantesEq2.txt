@@ -1,4 +1,4 @@
-1: UP180102	Cesar Alejandro Palomo Padilla
+1: UP180102	Cesar Alejandro Palomo Padilla (Jefe)
 2: UP180XXX	Gabriel de Jesus Montoya 
 3: UP180XXX	Cruz Roque Gerardo Aristeo
 4: UP180XXX	Monroy García Saúl Alfredo
