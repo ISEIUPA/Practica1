@@ -1,6 +1,6 @@
-Jefe: Alejandro Palomo
-1: Gabriel de Jesus Montoya 
-2: Cruz Roque Gerardo Aristeo
-3: Monroy García Saúl Alfredo
-4: Gómez Vizcarra Melissa
-5: Gonzalez Guerrero Alejandro Aníbal
+1: UP180102	Cesar Alejandro Palomo Padilla
+2: UP180XXX	Gabriel de Jesus Montoya 
+3: UP180XXX	Cruz Roque Gerardo Aristeo
+4: UP180XXX	Monroy García Saúl Alfredo
+5: UP180XXX	Gómez Vizcarra Melissa
+6: UP180XXX	Gonzalez Guerrero Alejandro Aníbal
