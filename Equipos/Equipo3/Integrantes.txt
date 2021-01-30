@@ -1,13 +1,8 @@
 Jefe: Luis Alejandro Demetrio Carrillo Up180316
 1.Josseline Lozada Garcia Up170030
 2.Silvia Patricia Ruiz Montes Up180856
-<<<<<<< HEAD
-3.
-4.Juan José Luna Vázquez UP180329
-=======
 3.Carlos Eduardo Martin Velazquez Up180516
-4.
->>>>>>> 47eff206ca15f9b598bf392d4458413a47c7e59f
+4.Juan José Luna Vázquez UP180329
 5.
 6.
 7.
