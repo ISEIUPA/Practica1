@@ -3,4 +3,4 @@
 3: UP180574	Cruz Roque Gerardo Aristeo
 4: UP180333     Monroy García Saúl Alfredo
 5: UP180744	Gómez Vizcarra Melissa
-6: UP180XXX	Gonzalez Guerrero Alejandro Aníbal
+6: UP180666	Gonzalez Guerrero Alejandro Aníbal
