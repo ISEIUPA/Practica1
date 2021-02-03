@@ -1,2 +1,6 @@
 Matricula Correo_GitHub              Usuario_GitHub
+<<<<<<< Updated upstream
 up180574  UP180574@alumnos.upa.edu.mx   VexmenDT  
+=======
+up180574  up180564@alumnos.upa.edu.mx  Vexmen    
+>>>>>>> Stashed changes
